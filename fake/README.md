@@ -1,12 +1,13 @@
 *SOURCE*
 
 
-shut: doucement (fr)
+shut : doucement (fr)
 
 
+ruhe : doucement (de)
 
-ush: doucement (en)
 
+ush : doucement (en)
 
 
 prego : doucement (it)
