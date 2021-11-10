@@ -1,3 +1,6 @@
 *SOURCE*
 
-shut
+
+shut: doucement (fr)
+ush: doucement (en)
+
