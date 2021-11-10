@@ -10,3 +10,6 @@ ush: doucement (en)
 
 
 prego : doucement (it)
+
+
+hola : doucement (es)
