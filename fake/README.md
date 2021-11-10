@@ -1,6 +1,10 @@
 *SOURCE*
-en:
-	shut:doucement
-	sleep:dormir
+
+
+-en
+
+shut:doucement
+
+sleep:dormir
 
 
