@@ -5,8 +5,9 @@ shut: doucement (fr)
 
 
 
-ush: doucement (en)
+ush: doucement (us)
 
+shu: doucement (en)
 
 
 prego : doucement (it)
