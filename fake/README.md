@@ -3,7 +3,7 @@
 
 -en
 
-shut:doucement
+shut:taire
 
 sleep:dormir
 
